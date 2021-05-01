@@ -9,3 +9,6 @@ This notebook is completely dedicated to lists.A list in python is used to store
 
 PythonBasics-3 (Tuples):
 This notebook is dedicated to tuples.A tuple is used to store 2 elements together.In this notebook creation of tuple, printing tuple and accesing individual elements of a tuple is show. Values in a tuple are immutable.
+
+PythonBasics-4 (Functions):
+This notebook is dedicated to functions.This notebook consists of definition of a function, parameterized and non-parameterized fucntions, passing values to a functions and return statement.
