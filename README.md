@@ -12,3 +12,6 @@ This notebook is dedicated to tuples.A tuple is used to store 2 elements togethe
 
 PythonBasics-4 (Functions):
 This notebook is dedicated to functions.This notebook consists of definition of a function, parameterized and non-parameterized fucntions, passing values to a functions and return statement.
+
+PythonBasics-5 (If statement):
+This notebook is completely dedicated to if statement and it's various types.This notebook consists of if, if else, if elif else ststements and their examples to help understand the working of the if statements.It also consists of comparing conditions in an if statement and using operators such as not , and , or in the condition of the if statement.
