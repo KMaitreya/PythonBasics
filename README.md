@@ -22,3 +22,6 @@ This notebook is dedicated to dictionaries.A dictionary stores data is key:value
 
 PythonBasics-7 (Loops):
 This notebook contains the syntax of for and while loop as well as their examples.It also contains the syntax of nested loops.
+
+PythonBasics-8 (Try/Except):
+This notebook is dedicated to error handling. It contains explaination of try and except block. It has various types of except blocks. It also has dufferent types of errors.
