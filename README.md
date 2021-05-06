@@ -18,4 +18,7 @@ PythonBasics-5 (If statement):
 This notebook is completely dedicated to if statement and it's various types.This notebook consists of if, if else, if elif else ststements and their examples to help understand the working of the if statements.It also consists of comparing conditions in an if statement and using operators such as not , and , or in the condition of the if statement.
 
 PythonBasics-6 (Dictionary):
-This notebook is dedicated to dictionaries.A dictionary stores data is key:value pair format.This notebook consists of creating a dictionary, printing a dictionary, printing value to corresponding key, adding data to the dictionary, deleting data from a dictionary, updating value to a corresponding key in the dictionary
+This notebook is dedicated to dictionaries.A dictionary stores data is key:value pair format.This notebook consists of creating a dictionary, printing a dictionary, printing value to corresponding key, adding data to the dictionary, deleting data from a dictionary, updating value to a corresponding key in the dictionary.
+
+PythonBasics-7 (Loops):
+This notebook contains the syntax of for and while loop as well as their examples.It also contains the syntax of nested loops.
