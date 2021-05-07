@@ -25,3 +25,7 @@ This notebook contains the syntax of for and while loop as well as their example
 
 PythonBasics-8 (Try/Except):
 This notebook is dedicated to error handling. It contains explaination of try and except block. It has various types of except blocks. It also has dufferent types of errors.
+
+PythonBasics-9 (Files):
+This notebook is dedicated to files.It explains opening and closing a file and the 4 modes of a file i.e. Reading(r), Writing(w), Appending(a), Reading+Writing(r+).It includes explaination and examples.
+
