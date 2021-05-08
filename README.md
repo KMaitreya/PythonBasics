@@ -29,3 +29,6 @@ This notebook is dedicated to error handling. It contains explaination of try an
 PythonBasics-9 (Files):
 This notebook is dedicated to files.It explains opening and closing a file and the 4 modes of a file i.e. Reading(r), Writing(w), Appending(a), Reading+Writing(r+).It includes explaination and examples.
 
+PythonBasics-10(Classes and Objects):
+This file is dedicated to explaining classes and objects.Explaination and definition of a class is supported by an example.Concept of object has been explained by and example.
+
